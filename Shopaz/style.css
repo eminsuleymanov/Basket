@@ -1,0 +1,19 @@
+.bi-bag{
+    font-size: 25px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.bi-suit-heart{
+    font-size: 25px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#bag-count{
+    background-color: #fff;
+    border-radius: 100%;
+    padding: 0px 7px;
+    position: absolute;
+    top: 8%;
+    right: 8.9%;
+
+}
